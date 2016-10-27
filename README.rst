@@ -11,5 +11,5 @@ This l10n-vietnam repository is hosted in Github and might contain any module re
 
 This project was initiated and developed by Trobz and his fully open to welcome new contributors.
 
-mailing list: [https://groups.google.com/forum/#!forum/odoo-vietnam](https://groups.google.com/forum/#!forum/odoo-vietnam)
+Mailing List: https://groups.google.com/forum/#!forum/odoo-vietnam
 
